@@ -7,13 +7,13 @@
   <h1>Yahoo Finance Company Performance Analysis</h1>
 
   <h2>Data Collection</h2>
-  <p>Started by importing the necessary libraries in Python to perform the analysis, such as Pandas, NumPy, Matplotlib, and yfinance. You then used the "yfinance" library to retrieve the historical price data for the past 12 months for each of the companies from Yahoo Finance.The time range was between June 2022 to June 2023</p>
+  <p>Started by importing the necessary libraries in Python to perform the analysis, such as Pandas, NumPy, matplotlib, and yfinance. You then used the "yfinance" library to retrieve the historical price data for the past 12 months for each of the companies from Yahoo Finance. The time range was between June 2022 to June 2023</p>
 
   <h2>Price Analysis</h2>
   <p>After obtaining the historical price data, I focused on the closing prices of the stocks. Closing prices are commonly used to analyze the performance of stocks over time. I extracted the closing prices for Apple, Microsoft, Netflix, Google, Amazon, and Meta for the past 12 months.</p>
 
 Findings:
-- Google had the lowest price action overally while Netflix exhibited the highets price action
+- Google had the lowest price action overall while Netflix exhibited the highest price action
 
 ![Price movement](https://github.com/martinkilombe/Python-Data-Analysis-Projects/blob/main/Yahoo%20Finance%20Company%20Performance/12%20month%20price%20movement.png)  
 
