@@ -23,7 +23,7 @@ Findings:
 ![Price movement](https://github.com/martinkilombe/Python-Data-Analysis-Projects/blob/main/Yahoo%20Finance%20Company%20Performance/Price%20comparison.png)  
 
   <h2>Moving Averages (M10 and M20)</h2>
-  <p>Moving averages are widely used in technical analysis to identify trends and smooth out price fluctuations. You calculated the moving averages M10 and M20 for each respective company. The M10 represents the average price over the past 10 days, while the M20 represents the average price over the past 20 days. By calculating these moving averages, you aimed to identify potential trends in the stock prices of the companies.</p>
+  <p>Moving averages are widely used in technical analysis to identify trends and smooth out price fluctuations. Calculated the moving averages M10 and M20 for each respective company. The M10 represents the average price over the past 10 days, while the M20 represents the average price over the past 20 days. By calculating these moving averages, I aimed to identify potential trends in the stock prices of the companies.</p>
 Findings:
 
 - The output shows the Netflix output. When the MA10 crosses above the MA20, it is considered a bullish signal indicating that the stock price will continue to rise. Conversely, when the MA10 crosses below the MA20, it is a bearish signal that the stock price will continue falling as shown below.
@@ -32,7 +32,7 @@ Findings:
 
 
   <h2>Volatility Analysis</h2>
-  <p>Volatility is a measure of the variability or dispersion of a stock's price over a specific period. You calculated the volatility of each company using a suitable method, such as the standard deviation or the average true range (ATR). Volatility analysis helps in understanding the level of risk associated with a particular stock and provides insights into potential price fluctuations.plotted the calculated volatilities for the various companies on a chart. This chart allowed you to compare the volatility levels among Apple, Microsoft, Netflix, Google, Amazon, and Meta. By examining the volatility plots, you could identify stocks with higher or lower levels of risk and make informed decisions based on your risk tolerance and investment objectives.</p>
+  <p>Volatility is a measure of the variability or dispersion of a stock's price over a specific period. You calculated the volatility of each company using a suitable method, such as the standard deviation or the average true range (ATR). Volatility analysis helps in understanding the level of risk associated with a particular stock and provides insights into potential price fluctuations. Plotted the calculated volatilities for the various companies on a chart. This chart allowed you to compare the volatility levels among Apple, Microsoft, Netflix, Google, Amazon, and Meta. By examining the volatility plots, you could identify stocks with higher or lower levels of risk and make informed decisions based on your risk tolerance and investment objectives.</p>
 
 ![Volatility](https://github.com/martinkilombe/Python-Data-Analysis-Projects/blob/main/Yahoo%20Finance%20Company%20Performance/Volatility.png) 
   <h2>Correlation Analysis</h2>
